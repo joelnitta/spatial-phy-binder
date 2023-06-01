@@ -1,1 +1,1 @@
-install.packages("tidyverse", "sf")
+install.packages(c("tidyverse", "sf"))
